@@ -1,0 +1,56 @@
+# Gold & World Politics Report
+_Generated 2026-11-05T12:08:37.864Z · mode: heuristic_
+
+## Signal: **BUY** (88% confidence, score 0.773)
+Next US news window: **Thursday, 05 November at 15:30 SAST** (08:30 New York). US standard time is active, so 08:30 New York = 15:30 South African time.
+Gold: **$4144.10** (1d 1.75%, 5d 2.80%)
+
+## Summary
+Across 342 headlines the news flow is net supportive for gold. Highest political risk: Middle East (94/100, rising). The next major US data release is Thursday, 05 November at 15:30 South African time.
+
+## Signal breakdown
+- **News & politics sentiment** (0.88, weight 0.45): Weighted headline impact 57.2 across 342 headlines (net safe-haven / easing bias).
+- **Gold price momentum** (1.00, weight 0.25): 5-day move 2.8%, price is above its 10-day average (4023).
+- **US Dollar** (0.37, weight 0.15): DXY -0.4% over 5 days - a weaker dollar supports gold.
+- **US 10Y yield** (0.75, weight 0.1): 10Y yield -3% over 5 days - rising yields pressure gold.
+- **Fear (VIX)** (-0.10, weight 0.05): VIX at 16.8 - elevated fear favours safe havens.
+
+## Scenarios at the release
+- ▲ **Weak data / dovish tone at 15:30 SAST** - Jobs, CPI or claims below forecast lowers yields and the dollar and raises rate-cut bets. Gold usually spikes within minutes. Positioning leans bullish going in, so a soft print could extend the move.
+- ▼ **Strong data / hawkish tone at 15:30 SAST** - A beat on jobs or inflation lifts yields and the dollar, which usually sends gold sharply lower. Headlines currently show 6 hawkish vs 1 dovish rate signals.
+- ▬ **In-line data with geopolitical shock** - If the number matches forecasts, price action is usually a fake-out spike followed by a reversal. Wait for the 15-minute candle to close before trusting direction.
+
+## Predictions
+- ▲ **Gold reaction at the 15:30 SAST release** (Next 1-4 hours, 88%): Composite model score 0.773 (BUY). Biggest driver: News & politics sentiment.
+- ▲ **Gold trend for the coming week** (1 week, 62%): Gold at 4144.1 is holding above its 10-day average with a 2.8% 5-day change.
+- ▲ **Middle East: rising tension** (1-4 weeks, 73%): HIGH risk (94/100), rising. Escalating headlines support safe-haven buying of gold.
+- ▲ **Russia / Ukraine: rising tension** (1-4 weeks, 72%): HIGH risk (92/100), rising. Escalating headlines support safe-haven buying of gold.
+- ▲ **United States: rising tension** (1-4 weeks, 58%): ELEVATED risk (52/100), rising. Escalating headlines support safe-haven buying of gold.
+- ▼ **Federal Reserve policy lean** (Next FOMC cycle, 60%): 1 dovish/easing headlines vs 6 hawkish/tightening headlines. Easier policy is positive for gold.
+
+## World political risk
+- **Middle East** - HIGH risk (94/100), rising. Escalating headlines support safe-haven buying of gold.
+- **Russia / Ukraine** - HIGH risk (92/100), rising. Escalating headlines support safe-haven buying of gold.
+- **United States** - ELEVATED risk (52/100), rising. Escalating headlines support safe-haven buying of gold.
+- **China / Taiwan / Asia-Pacific** - LOW risk (26/100), steady. Little direct impact on gold right now.
+- **Africa / South Africa** - LOW risk (21/100), rising. Little direct impact on gold right now.
+- **Europe** - LOW risk (14/100), rising. Little direct impact on gold right now.
+
+## Key headlines
+- [+2.5] [Gold gains as oil, dollar, Treasury yields tumble after U.S. midterms](https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5) - Investing.com
+- [+2.5] [Gold hits 2-week high as dollar, oil, yields fall after US midterms](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5) - Reuters
+- [+2.5] [Gold heads for biggest daily gain since August as dollar weakens](https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5) - Reuters
+- [+2.5] [Gold rises as dollar weakens ahead of U.S. midterm election results](https://news.google.com/rss/articles/CBMipAFBVV95cUxObkQ5MzAyekZrcWZOb0lvMEJ4dWdGMmNUMzNzRmpHZUtwaXJNam9NTkJUMmowRkFVNncyRlNQdDk2YnpyRmo4Zk01ZVE5eEZTRXE0ZkJGMXJfUEhCeVVLWXV2U0E5VUpZT0dsSXN5a010ZlpfcFg4d2EycFNGR0VKYko5Y2RSZE5kZXM4dTJoYlVabDB1N2tLZk1PdU9jZHFoUUI4NtIBqgFBVV95cUxNUGUzRlBIeVdYcEZTV2N1eUZUT2NZOXZibE05Z3E5WV9FRTg5VmhpYzYwOENrTTBES3RSZU9yUk96WFlBeHVIdEtMTHdRUmFZT2w0RUJtZVpVUGdkYXlneWtHX3RvMU1xYXFhOVdOYUhRb2wtT2N0b3JLd1NVMjJfOVRzQ3JhUldka3VFUFhUMnQ5U0diN3p4UXFYMnhucDNmNkp5aTNJcnVmQQ?oc=5) - CNBC
+- [+2.7] [Gold demand remains near record highs as central bank buying surges 42% – WGC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5) - Kitco
+- [+1.5] [Gold price rises again by Tk 5,482 per bhari to reach Tk 2.29 lakh](https://news.google.com/rss/articles/CBMivgFBVV95cUxQNE8yNUJ1Y3d4ZDEyY2NTOGkwVU9HMHl4bi13bmplQXdCclhaNTZ5b0lWbFBxZ2dOZUYxNWZ4dEZ0d19KTDVaV0RJdnI5VnQ4M1JrenlnSjM0Y0VkV0ZGeG5BeG5DMmdMUFpVMG1mSmtCNEZiUkZJVGVYTTdHcHVJd2V5bmhVUFphUnZoTmhZRWhBS0loMUhnaWNfYk05aExVejhGYjJxMGdEbDVCbHJjRUlSMEpKUlotcUg3U1Nn?oc=5) - New Age BD
+- [+1.5] [NZD/USD Analysis: Gains capped by dovish RBNZ, ahead US NFP](https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzEweGxzWFk1Zm1rbVJELXFjLVdaS3NWSTQ4eW56ZlFVUGdNajE2b2JGZk5TNzhRcXVEYUhDdWItS0s1N0pLQmdWUEFuTlM3UDFtNlBGWjJsdk9lemJoMC1YdklPN0VENVBpRkZGak1hOFktV3RYUmVsOTVvSWpLUlR3bjMzSmZpbXlzaF96QTRYaEhJUnhTLUZsNkhnRUpXU2d3VFp5a3hUMS1TYzBUdjI1YkRKNlVuZDF5TTJKV05OUXN0?oc=5) - FXStreet
+- [+1.5] [Gold, silver price prediction: Will gold hit Rs 1.5 lakh in Dhanteras week? Check outlook on November 5,](https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSHp5eEtTNVhtQ2JYWmk2SndjNFBsblFhUlZpbkx6ZlEtMlBFektwcmxnY2VRWnhkUzBUaGRwUjNKTkJZRGpBcVVndm8teG5BTTVfNVJVMkJsN1d2M0pBVVlEUEotd080MkotTDRVTElNMGVMR25XMG0tWkdXV0xTbVlmQlV3bjZlTHV1SFlRZlFEaGt1TlJvX2NKdU4wQ3R5U0lXT2RKUlFVdlpjYmlXd1JSTGs2ei1QTWdDZHB0MHlwamVHOHI0R1N2QWxlOVhXOFk1U202SmM0dG9HSDdsWGs0aWhaN1ZNdXo2MzZRbkVQZjltUEhXNDNkSFE0RHJsUHpmYmhiSUVkWnpXYlhGVWhqZXRIaXJfc1JkVThEcEVLTGpjcGE2RFJtcWRMdWc1YkZDbm5haHA4VlVOSW1tc0ItZDV4ekk2aTU3UGFGUTjSAdYCQVVfeXFMT2psZGpOaEU2b3JYLUowZ3BVb2s2am8yZ1JJazlaQUVRUGtGWlg5eG9aazRFNGxEQjJJdndBY1dncFhPWFM5dTN6eFg4a2x4dHlMd0JwWXREN21Odk13cEhadlRiUjB4eXNWY2dFWlh3SEhxemJhWGdnVURmLUV0LTdsQlByb3VlQU05SU8waUFPVHVDX1NOazJSOXlhWW1HZ2RXNDJoUkRwR0lhNkxUQlhpeE90R3hVWE9rQlRMQjlsd1NLeE80cnBHbUh4OTBpa2wwU1JfaGRsTTVQZ18tLU04b2QwdERKdkdGb2JfOWY0QUJwZ1hjVmIxRHJmY2I5cHBveEE3UVZtYUE1SnBZRDQyYm1Salg4U2VuRnpYRk80U1paaFJ2Xzd2bThQRXZlWHRwOVR2bUtHQmJlaDJaU3htVmpsUHFZcnJUSmVjNkZPeGdtaVZB?oc=5) - The Times of India
+- [+1.5] [India Gold price today: Gold rises, according to FXStreet data](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUtSdE81dURHSXJ0NzdUdGgtQ0dsdWtHRUFZTXY1LTZwVGRRS3ljRk1JeWxGbHRKSFlGUEhEZHRWTURGdDk3WHBYN3FhSjZ1dElRQUJmeHVmY3Via3lod2l0QXZUVVRnanB0SU5mR3VqVG5pZnlHeHIzMXJFb1pkeUtQWWhqZlV1S3VLV3gyNFB1NE1DNmpiX3RoSHdRVVBMeGxpdXFyNjE0UTBUYXVETFNqTVBuSjlHLWxvei1HR0plNDRo?oc=5) - www.tmgm.com
+- [+1.5] [Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0lNbWJsNm9BQkZObjdwTWNBbTQwd093S1c1dV9PTjZmNEQxVmtwNTZwQUROOXJTRFJndXVzVUJJMGloUGdsTjhfN3ctWTdrWFFvME1RbU10OU9MRjFsVElxd0djQTh6YzVKRVhURjA2U1haNEE3ZlVsSXo0VUxNS2F6cnNvQ2RVc0psX3dLck1iNklSLTdRLVE1ZWNSZ2x3MVHSAacBQVVfeXFMTUQta0lIa2tjODZlMzc5Y1hWN3Jpb2YzUVByM3dTNWFsNkdSVmVMT0tVck96cER4VW1jckVUX3VKTG9kVllod0VnTy1Vcy13MVoydnU3NWp1aVBEZjVSY3BVQTNOMUw0V0JmX3p0ZWFSVUNGZ3FZWC1ydW9uakQ4S3dUYTVCUkRPZ2pmWWJISzRZbmxRWEI1UXR1LVZtWVVTNVd2R0U5ZjQ?oc=5) - CNBC
+- [+1.5] [Gold Price Forecast: XAU/USD extends rally as Democrats’ victory weakens US yields](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0RyZVZVbS0wT0JnSXhHYU9NT1Yxd0gxTVBkV2g5Y0toYXNtcEZqZnlES0I5ZmhIdnJyR1V6ZlYtakJhc1BBRUx0VFpKcWFZeVpVRjB5NFFQXzgzR1dlNTJNQXJLUTdYNzhwQk50TlhFQWEzeEE2V0RWdU1OdDZmZTBDMFU1OGtEd20tSVBtOXdaT09xYkF4NTZ4a1J5bTFBaHR2X1JuYzR6UWg5UHVSdFppbFJVRWFybWpLdnNucXJiMnVEeUE?oc=5) - FXStreet
+- [+1.5] [Gold price prediction: Will gold rally on Thursday after midterm election result? Check outlook for Novemb](https://news.google.com/rss/articles/CBMilgJBVV95cUxOeWtQVEplLThOeVc5bWRpNEdOa3FMMElFMU1XQ0NWcWw2Z1RDVEkwNjdGTnhjZmNSYjd6YnVGemVqekk1ejFRQjQ0NE5fNEhFY3UyMENyRlotTVNjRGRqWmNpV3g0aGxUdy10VE1qckc2TXVDZEhFQllPWlVESHNGX2tnaEhZZEtxRGk0MVRadDZNV1NMOHVEMkcwVklpcFUzMVJlY0NaVTYxT1dKVE8zdzJWQVkxaGNGTUlaeE0tdnc1Nk5Uakp6MHEwVTVTaHNsd0liZU5OYWlLSlFZQUFuYTRtakhuYzFuTmhYYUFSZmxPWjF4STYwMzBLR09sb05fdHBfekd2QlYtZ1p0ZUlBc0o1SHJCZ9IBmwJBVV95cUxNMWhUMkFDNXI1bXlqRjFuRExDVGd1RzBrckdMSUZFQUx6SmZ2Z2dOZ0R1RFJHYTBFTUJwVlhvREIzUXpGUlQ1bnhxWjRfaE96dGRnTnAwaUJzSERNZi1vTHlCcHN6d2ZTaW5UQzBMNUZ5TzV0dGVzQ0NNM19SMTZDc2xaMk9JNXR6cFRFa3FfWEZEdTBDejRPY2RSSWFHN3dvd2RXeEtSTFU5emwtNWlGdnp3Z3dkLWRNbndVUlMyX01IVzN3ZXN3djNSRGg0NzhXckNYM3Jpa1Rna01SR19LV2dLWE1ieW9HRjBjd3c0WVdPSDRkZVhrSVM2c0lEb3JjeC1DRmVDRjA0Z2FWM1VSbEtLcXExbDljdHZR?oc=5) - The Economic Times
+- [+1.5] [Gold Price Climbs Above US$4,000 After Democrat Midterm Win](https://news.google.com/rss/articles/CBMia0FVX3lxTE5FNlQ5RjJveVM0aTN2c0NWeV9ldEY4Skk2LUlfSjJrZDFpdVRuNE1rV0RFcXVpazVQR0hYQ18tcWQxQkpfa1dtR0doa1lhWXVHM0ZNUk95RzdhMHlUM3N1Q1RZMUFYSXMza2Rv?oc=5) - Investing News Network
+- [+1.5] [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Soars 3.5% After Democrats’ Victory In Midterm Elections](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUwxekY2RHRIcXlsNkNwOFBheWVZeFlhV3dYVjRPWS1rN1hoUXI1VVd6bEwyUy1WV2NyU1JBWTZMalVCWVo5ZVZ1c1ZZV3FDbFVleXBEN2ZEOTFlMnBfQllEVmJ4NkQzdnpOR00yNXRjU3Fld3Z1OVVJeHRCXy1DVFNfRWxRc0hKTHZDcjNXRUR2bktHNlBtZGFkY2VDMnNJX3ItY2JxVkFBWmstN2xzRlE3N1RGLWdLS3gybG41dzNHTkFQMmNIZ29tV0hSZW9DY3RDd2psdm5RSHoxZF9iNm1n?oc=5) - FXEmpire
+- [+1.5] [Gold price today, Wednesday, November 4, 2026: Gold prices rise in early trading, but limited gains expected](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTEzRnU0WGNuVHEyUDhldzduei1xZWY5bk9DbTZxal9zcVZtTTgxQXhvc1cxeHQxYWotWnNObWpLX0NPZjljVnUyRUN1cURuVDJiZmNRLUgyTWQ1Umo3YjUyR0hpbnhSUnVlRkJzMlBuQVpraWppN1RJY0s1WkF3cldKTkoyNnhhV1k2aFJIV0pTTzdoMWt5V0JDR3BuOU5zdE1sckV6aUFJRFl0ekp0d3FremtfeXdWZ3oxSEFlc09xLWF2d1BCSkJkVlIzSTJkU2dSTlhVRktPVmw0MC16YUtndWg1S24wZWFtamV1LVE1TGZ6MlZkRzVQdzllbzE4UTA3VGpTV3FNcHc?oc=5) - Yahoo Finance
+
+> Not financial advice. This is an automated, heuristic model - markets can move against any signal.
